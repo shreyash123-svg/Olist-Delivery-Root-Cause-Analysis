@@ -88,9 +88,3 @@ Late deliveries are classified based on whether the delay is primarily related t
 - Window functions
 - Views
 - Percentile functions
-
-## 6. Screenshots / Demo
-
-### Olist Delivery Root Cause Analysis
-
-![Olist Delivery RCA](dashboard.png)
